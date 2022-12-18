@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\b3-dev-tu-flamant-benoit-armand-lelio\b3-dev-tu-flamant-benoit-armand-lelio.csproj" />
+  </ItemGroup>
+
 </Project>
