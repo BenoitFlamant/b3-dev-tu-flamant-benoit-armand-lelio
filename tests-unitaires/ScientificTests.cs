@@ -31,7 +31,7 @@ namespace tests_unitaires
             Assert.Equal(0.125, Scientific.Power(0.5, 3));
             Assert.Equal(-64, Scientific.Power(-4, 3));
             Assert.Equal(25, Scientific.Power(-5, 2));
-            Assert.Equal(0.1, Scientific.Power(1, -1));
+            Assert.Equal(0.1, Scientific.Power(10, -1));
         }
     }
 }
